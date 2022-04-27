@@ -1,0 +1,44 @@
+{
+    "name": "extension-pack",
+    "displayName": "Extension-pack",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "akamud.vscode-theme-onedark", 
+        "bubersson.theme-hop-light", 
+        "christian-kohler.npm-intellisense", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "danroc.techlabs-berlin-extension-pack", 
+        "dbaeumer.vscode-eslint", 
+        "dracula-theme.theme-dracula", 
+        "eamodio.gitlens", 
+        "emmanuelbeziat.vscode-great-icons", 
+        "Equinusocio.vsc-community-material-theme", 
+        "Equinusocio.vsc-material-theme", 
+        "equinusocio.vsc-material-theme-icons", 
+        "esbenp.prettier-vscode", 
+        "johnpapa.vscode-peacock", 
+        "kisstkondoros.vscode-gutter-preview", 
+        "mhutchie.git-graph", 
+        "midnightsyntax.vscode-wrap-console-log", 
+        "MS-CEINTL.vscode-language-pack-de", 
+        "ms-vsliveshare.vsliveshare", 
+        "msjsdiag.debugger-for-chrome", 
+        "naumovs.color-highlight", 
+        "oderwat.indent-rainbow", 
+        "pflannery.vscode-versionlens", 
+        "PKief.material-icon-theme", 
+        "sdras.night-owl", 
+        "Shan.code-settings-sync", 
+        "shd101wyy.markdown-preview-enhanced", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "wesbos.theme-cobalt2"
+    ]
+}
